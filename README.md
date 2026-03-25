@@ -1,67 +1,67 @@
-# 🍇 Amoraas - Premium Bio-link
+# 🍇 Amoraas - Bio-link Premium
 
 ![Amoraas Preview](https://github.com/Jao-Viquitor/amoraas/raw/main/public/assets/bg_premium.png)
 
-**Amoraas** is a high-end, luxury bio-link website designed for brands that demand a premium digital presence. Built with the latest web technologies, it offers a seamless, responsive, and visually stunning experience for your audience.
+**Amoraas** é um site de bio-link de luxo e alta qualidade, projetado para marcas que exigem uma presença digital premium. Construído com as tecnologias web mais recentes, oferece uma experiência fluida, responsiva e visualmente impressionante para o seu público.
 
 ---
 
-## ✨ Features
+## ✨ Funcionalidades
 
-- 💎 **Premium Aesthetic**: Modern UI with glassmorphism, smooth gradients, and minimal design.
-- 📱 **Mobile First**: Fully responsive for all devices.
-- 🛍️ **Product Catalog**: Integrated product showcase with optimized image layouts.
-- ⚡ **High Performance**: Built on Next.js 16 for blazing-fast loading speeds.
-- 🎨 **Tailwind CSS**: Utility-first styling for maximum flexibility and performance.
+- 💎 **Estética Premium**: Interface moderna com glassmorphism, gradientes suaves e design minimalista.
+- 📱 **Mobile First**: Totalmente responsivo para todos os dispositivos.
+- 🛍️ **Catálogo de Produtos**: Vitrine de produtos integrada com layouts de imagem otimizados.
+- ⚡ **Alta Performance**: Desenvolvido em Next.js 16 para velocidades de carregamento ultrarrápidas.
+- 🎨 **Tailwind CSS**: Estilização utility-first para máxima flexibilidade e performance.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 - **Framework**: [Next.js 16+](https://nextjs.org/)
-- **Library**: [React 19](https://reactjs.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Icons**: [Lucide React](https://lucide.dev/)
+- **Biblioteca**: [React 19](https://reactjs.org/)
+- **Estilização**: [Tailwind CSS](https://tailwindcss.com/)
+- **Ícones**: [Lucide React](https://lucide.dev/)
 - **Analytics**: [Vercel Analytics](https://vercel.com/analytics)
-- **Deployment**: [Vercel](https://vercel.com/)
+- **Deploy**: [Vercel](https://vercel.com/)
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Como Começar
 
-First, install the dependencies:
+Primeiro, instale as dependências:
 
 ```bash
 npm install
 ```
 
-Then, run the development server:
+Depois, inicie o servidor de desenvolvimento:
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
 ---
 
-## 📂 Project Structure
+## 📂 Estrutura do Projeto
 
-- `src/app`: Next.js App Router for routing and global styles.
-- `src/components`: Reusable UI components (Header, Footer, Catalog).
-- `public/assets`: Optimized brand assets and product images.
-- `docs/`: Design system and manual documentation.
+- `src/app`: App Router do Next.js para roteamento e estilos globais.
+- `src/components`: Componentes de interface reutilizáveis (Header, Footer, Catalog).
+- `public/assets`: Assets da marca e imagens de produtos otimizadas.
+- `docs/`: Sistema de design e documentação manual.
 
 ---
 
-## 👤 Author
+## 👤 Autor
 
 **João Victor**
 - GitHub: [@Jao-Viquitor](https://github.com/Jao-Viquitor)
-- Agency: [Multiverso](https://multiverso.dev)
+- Agência: [Multiverso](https://multiverso.dev)
 
 ---
 
-## 📄 License
+## 📄 Licença
 
-This project is licensed under the ISC License.
+Este projeto está licenciado sob a Licença ISC.
